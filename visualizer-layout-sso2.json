@@ -1,0 +1,465 @@
+{
+  "format": "sso-visualizer-layout",
+  "version": 2,
+  "columns": 12,
+  "rows": 8,
+  "fixtures": [
+    {
+      "id": "fixture-1",
+      "bank": "A",
+      "channel": 1,
+      "x": 0.25,
+      "y": 7.75,
+      "angle": 240
+    },
+    {
+      "id": "fixture-2",
+      "bank": "A",
+      "channel": 2,
+      "x": 11.75,
+      "y": 7.75,
+      "angle": 120
+    },
+    {
+      "id": "fixture-3",
+      "bank": "A",
+      "channel": 3,
+      "x": 4.0,
+      "y": 6.25,
+      "angle": 170
+    },
+    {
+      "id": "fixture-4",
+      "bank": "A",
+      "channel": 4,
+      "x": 6.0,
+      "y": 7.75,
+      "angle": 180
+    },
+    {
+      "id": "fixture-5",
+      "bank": "A",
+      "channel": 5,
+      "x": 8.0,
+      "y": 6.25,
+      "angle": 190
+    },
+    {
+      "id": "fixture-6",
+      "bank": "A",
+      "channel": 6,
+      "x": 6.0,
+      "y": 3.25,
+      "angle": 180
+    },
+    {
+      "id": "fixture-7",
+      "bank": "A",
+      "channel": 7,
+      "x": 0.25,
+      "y": 5.5,
+      "angle": 270
+    },
+    {
+      "id": "fixture-8",
+      "bank": "A",
+      "channel": 8,
+      "x": 0.25,
+      "y": 1.25,
+      "angle": 290
+    },
+    {
+      "id": "fixture-9",
+      "bank": "A",
+      "channel": 9,
+      "x": 1.25,
+      "y": 0.25,
+      "angle": 10
+    },
+    {
+      "id": "fixture-10",
+      "bank": "A",
+      "channel": 10,
+      "x": 3.0,
+      "y": 0.75,
+      "angle": 310
+    },
+    {
+      "id": "fixture-11",
+      "bank": "A",
+      "channel": 11,
+      "x": 3.75,
+      "y": 0.25,
+      "angle": 10
+    },
+    {
+      "id": "fixture-12",
+      "bank": "A",
+      "channel": 12,
+      "x": 5.25,
+      "y": 0.25
+    },
+    {
+      "id": "fixture-13",
+      "bank": "A",
+      "channel": 13,
+      "x": 6.75,
+      "y": 0.25
+    },
+    {
+      "id": "fixture-14",
+      "bank": "A",
+      "channel": 14,
+      "x": 8.25,
+      "y": 0.25,
+      "angle": 350
+    },
+    {
+      "id": "fixture-15",
+      "bank": "A",
+      "channel": 15,
+      "x": 9.0,
+      "y": 0.75,
+      "angle": 50
+    },
+    {
+      "id": "fixture-16",
+      "bank": "A",
+      "channel": 16,
+      "x": 10.75,
+      "y": 0.25,
+      "angle": 350
+    },
+    {
+      "id": "fixture-17",
+      "bank": "A",
+      "channel": 17,
+      "x": 11.75,
+      "y": 1.25,
+      "angle": 70
+    },
+    {
+      "id": "fixture-18",
+      "bank": "A",
+      "channel": 18,
+      "x": 2.75,
+      "y": 6.5
+    },
+    {
+      "id": "fixture-19",
+      "bank": "A",
+      "channel": 19,
+      "x": 2.25,
+      "y": 3.25
+    },
+    {
+      "id": "fixture-20",
+      "bank": "A",
+      "channel": 20,
+      "x": 2.25,
+      "y": 2.25
+    },
+    {
+      "id": "fixture-21",
+      "bank": "A",
+      "channel": 21,
+      "x": 2.0,
+      "y": 0.75
+    },
+    {
+      "id": "fixture-22",
+      "bank": "A",
+      "channel": 22,
+      "x": 10.0,
+      "y": 0.75
+    },
+    {
+      "id": "fixture-23",
+      "bank": "A",
+      "channel": 24,
+      "x": 6.0,
+      "y": 7.0
+    },
+    {
+      "id": "fixture-24",
+      "bank": "A",
+      "channel": 25,
+      "x": 1.5,
+      "y": 7.75,
+      "angle": 190
+    },
+    {
+      "id": "fixture-25",
+      "bank": "A",
+      "channel": 26,
+      "x": 2.5,
+      "y": 7.75,
+      "angle": 210
+    },
+    {
+      "id": "fixture-26",
+      "bank": "A",
+      "channel": 27,
+      "x": 9.5,
+      "y": 7.75,
+      "angle": 150
+    },
+    {
+      "id": "fixture-27",
+      "bank": "A",
+      "channel": 28,
+      "x": 10.5,
+      "y": 7.75,
+      "angle": 170
+    },
+    {
+      "id": "fixture-28",
+      "bank": "B",
+      "channel": 1,
+      "x": 3.25,
+      "y": 7.75,
+      "angle": 180
+    },
+    {
+      "id": "fixture-29",
+      "bank": "B",
+      "channel": 2,
+      "x": 0.25,
+      "y": 3.75,
+      "angle": 330
+    },
+    {
+      "id": "fixture-30",
+      "bank": "B",
+      "channel": 3,
+      "x": 1.0,
+      "y": 2.25,
+      "angle": 300
+    },
+    {
+      "id": "fixture-31",
+      "bank": "B",
+      "channel": 4,
+      "x": 2.25,
+      "y": 1.5,
+      "angle": 10
+    },
+    {
+      "id": "fixture-32",
+      "bank": "B",
+      "channel": 5,
+      "x": 3.5,
+      "y": 2.0
+    },
+    {
+      "id": "fixture-33",
+      "bank": "B",
+      "channel": 6,
+      "x": 4.5,
+      "y": 1.0,
+      "angle": 10
+    },
+    {
+      "id": "fixture-34",
+      "bank": "B",
+      "channel": 7,
+      "x": 6.0,
+      "y": 1.0
+    },
+    {
+      "id": "fixture-35",
+      "bank": "B",
+      "channel": 8,
+      "x": 7.5,
+      "y": 1.0,
+      "angle": 350
+    },
+    {
+      "id": "fixture-36",
+      "bank": "B",
+      "channel": 9,
+      "x": 8.5,
+      "y": 2.0
+    },
+    {
+      "id": "fixture-37",
+      "bank": "B",
+      "channel": 10,
+      "x": 9.75,
+      "y": 1.5,
+      "angle": 350
+    },
+    {
+      "id": "fixture-38",
+      "bank": "B",
+      "channel": 11,
+      "x": 11.0,
+      "y": 2.25,
+      "angle": 70
+    },
+    {
+      "id": "fixture-39",
+      "bank": "B",
+      "channel": 12,
+      "x": 11.75,
+      "y": 3.75,
+      "angle": 30
+    },
+    {
+      "id": "fixture-40",
+      "bank": "B",
+      "channel": 13,
+      "x": 1.0,
+      "y": 5.0,
+      "angle": 270
+    },
+    {
+      "id": "fixture-41",
+      "bank": "B",
+      "channel": 14,
+      "x": 11.0,
+      "y": 5.0,
+      "angle": 90
+    },
+    {
+      "id": "fixture-42",
+      "bank": "B",
+      "channel": 46,
+      "x": 2.0,
+      "y": 4.5
+    },
+    {
+      "id": "fixture-43",
+      "bank": "A",
+      "channel": 8,
+      "x": 0.25,
+      "y": 2.75,
+      "angle": 310
+    },
+    {
+      "id": "fixture-44",
+      "bank": "A",
+      "channel": 17,
+      "x": 11.75,
+      "y": 2.75,
+      "angle": 50
+    },
+    {
+      "id": "fixture-45",
+      "bank": "A",
+      "channel": 7,
+      "x": 11.75,
+      "y": 5.5,
+      "angle": 90
+    },
+    {
+      "id": "fixture-46",
+      "bank": "B",
+      "channel": 46,
+      "x": 4.0,
+      "y": 4.5
+    },
+    {
+      "id": "fixture-47",
+      "bank": "A",
+      "channel": 18,
+      "x": 9.25,
+      "y": 6.5
+    },
+    {
+      "id": "fixture-48",
+      "bank": "A",
+      "channel": 18,
+      "x": 7.0,
+      "y": 6.5
+    },
+    {
+      "id": "fixture-49",
+      "bank": "A",
+      "channel": 18,
+      "x": 5.0,
+      "y": 6.5
+    },
+    {
+      "id": "fixture-50",
+      "bank": "A",
+      "channel": 19,
+      "x": 9.25,
+      "y": 3.25
+    },
+    {
+      "id": "fixture-51",
+      "bank": "A",
+      "channel": 19,
+      "x": 9.75,
+      "y": 3.25
+    },
+    {
+      "id": "fixture-52",
+      "bank": "A",
+      "channel": 19,
+      "x": 2.75,
+      "y": 3.25
+    },
+    {
+      "id": "fixture-53",
+      "bank": "A",
+      "channel": 20,
+      "x": 9.75,
+      "y": 2.25
+    },
+    {
+      "id": "fixture-54",
+      "bank": "A",
+      "channel": 20,
+      "x": 9.25,
+      "y": 2.25
+    },
+    {
+      "id": "fixture-55",
+      "bank": "A",
+      "channel": 20,
+      "x": 2.75,
+      "y": 2.25
+    },
+    {
+      "id": "fixture-56",
+      "bank": "B",
+      "channel": 1,
+      "x": 8.75,
+      "y": 7.75,
+      "angle": 180
+    },
+    {
+      "id": "fixture-57",
+      "bank": "B",
+      "channel": 1,
+      "x": 8.0,
+      "y": 7.75,
+      "angle": 170
+    },
+    {
+      "id": "fixture-58",
+      "bank": "B",
+      "channel": 1,
+      "x": 4.0,
+      "y": 7.75,
+      "angle": 190
+    },
+    {
+      "id": "fixture-59",
+      "bank": "B",
+      "channel": 46,
+      "x": 10.0,
+      "y": 4.5
+    },
+    {
+      "id": "fixture-60",
+      "bank": "B",
+      "channel": 46,
+      "x": 8.0,
+      "y": 4.5
+    }
+  ],
+  "edition": "SSO2"
+}
